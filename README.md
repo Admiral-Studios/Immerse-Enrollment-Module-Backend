@@ -14,7 +14,7 @@ Web application for purchasing courses. Our task was to build a complex, multi-s
 
 ## Technology Stack
 
-Nest.js - enterprise-level Node.js framework
-Prisma - Next-generation Node.js and TypeScript ORM
-Stripe, Flywire - payment services
-Zapier - Workflow automation software
+ - Nest.js - enterprise-level Node.js framework
+ - Prisma - Next-generation Node.js and TypeScript ORM
+ - Stripe, Flywire - payment services
+ - Zapier - Workflow automation software
